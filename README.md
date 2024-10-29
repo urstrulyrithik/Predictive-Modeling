@@ -33,7 +33,7 @@ install.packages(c("caret", "randomForest", "ggplot2", "dplyr"))
 1. Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/urstrulyrithik/predictiveModeling.git
+git clone https://github.com/urstrulyrithik/Predictive-Modeling
 ```
 
 2. Open the R script (`predictiveModeling.R`) in RStudio or your preferred R environment.
