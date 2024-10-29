@@ -61,6 +61,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions are welcome! If you'd like to improve the code or add new features, please fork the repository and create a pull request.
 
 ## Contact
-
-For questions or suggestions, feel free to reach out via email at urstrulyrithik@gmail.com
+For any questions, feel free to reach out at:
+- **Email**: urstrulyrithik@gmail.com
+- **LinkedIn**: [Rithik Reddy](https://www.linkedin.com/in/rithikreddypv)
+- **GitHub**: [rithikreddy](https://github.com/urstrulyrithik)
 
